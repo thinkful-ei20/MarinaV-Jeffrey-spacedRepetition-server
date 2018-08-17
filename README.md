@@ -3,7 +3,7 @@ FlashFluent - learning App
 
 This API provides resources for [FlashFluent](https://flashfluent.surge.sh) app which documentation can be found [here](https://github.com/valsakel/spaced-repetition-client).
 
-Live [URL](https://spaced-rep-marjef-server.herokuapp.com/)
+Live [URL](https://flashfluent.surge.sh)
 
 ## API Documentation
 #### `GET /questions/next` - protected
